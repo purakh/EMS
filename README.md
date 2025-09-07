@@ -65,9 +65,6 @@ Frontend: Netlify Link Here
 
 Backend: Render Link Here
 
-👨‍💻 Author
-Purakh Singh
-
 GitHub
 
 LinkedIn
