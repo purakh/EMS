@@ -58,7 +58,7 @@ ng serve
 Runs on http://localhost:4200
 
 📸 Screenshots
-👉 
+👉 To be added later ...
 
 🌍 Live Demo
 Frontend: Netlify Link Here
