@@ -57,22 +57,8 @@ npm install
 ng serve
 Runs on http://localhost:4200
 
-📂 Project Structure
-bash
-Copy code
-EMS/
-│
-├── backend/         # Spring Boot backend
-│   ├── src/         # Java source files
-│   └── pom.xml      # Maven configuration
-│
-├── frontend/        # Angular frontend
-│   ├── src/         # Angular source files
-│   └── package.json # Dependencies
-│
-└── README.md        # Project documentation
 📸 Screenshots
-👉 (Add your own screenshots here — capture them after running locally)
+👉 
 
 🌍 Live Demo
 Frontend: Netlify Link Here
